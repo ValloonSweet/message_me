@@ -4,8 +4,6 @@ import "controllers"
 import "jquery"
 import "semantic-ui"
 
-
-
 $(function() {
     $('.ui.dropdown').dropdown();
 })
